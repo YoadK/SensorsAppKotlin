@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:androclass="http://schemas.android.com/apk/res/android"
+    androclass:layout_width="match_parent"
+    androclass:layout_height="match_parent">
+
+    <TextView
+        androclass:id="@+id/textView1"
+        androclass:layout_width="wrap_content"
+        androclass:layout_height="wrap_content"
+        androclass:layout_alignParentStart="true"
+        androclass:layout_alignParentTop="true"
+        androclass:layout_marginStart="92dp"
+        androclass:layout_marginTop="114dp" />
+</RelativeLayout>
